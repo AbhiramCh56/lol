@@ -25,7 +25,8 @@ SECRET_KEY = 'django-insecure-y!how*005a!-+p-^ijs!#hja80dtpa)16h2&9ou7*q9k)^rl2)
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['https://lol-tau-five.vercel.app/',
+                 '127.0.0.1']
 
 
 # Application definition
