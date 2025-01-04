@@ -2,9 +2,9 @@
   "version": 2,
   "builds": [
     {
-      "src": "l/wsgi.py",
+      "src": "lol/wsgi.py",
       "use": "@vercel/python"
     }
   ],
-  "routes": [{ "src": "/(.*)", "dest": "l/wsgi.py" }]
+  "routes": [{ "src": "/(.*)", "dest": "lol/wsgi.py" }]
 }
