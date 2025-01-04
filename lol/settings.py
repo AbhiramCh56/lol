@@ -27,7 +27,8 @@ DEBUG = True
 
 ALLOWED_HOSTS = ['https://lol-tau-five.vercel.app/',
                  '127.0.0.1',
-                 'https://lol-dr57.vercel.app/']
+                 'https://lol-dr57.vercel.app/',
+                 'lol-tau-five.vercel.app']
 
 
 # Application definition
